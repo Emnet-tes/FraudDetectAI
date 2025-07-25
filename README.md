@@ -144,7 +144,7 @@ jupyter lab
 
 
 
-### Current Achievements (All Tasks)
+### Current Achievements (Task 1 & Task 2)
 
 ```
 Data Processing Performance:
